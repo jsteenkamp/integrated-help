@@ -13,3 +13,9 @@ Test SVG
 What is Minimum Viable Product (MVP)?  As it is traditionally defined MVP is:
 
 “MVP has just those features that allow the product to be deployed, and no more.  The product is typically deployed to a subset of possible customers, such as early adopters that are thought to be more forgiving, more likely to give feedback, and able to grasp a product vision from an early prototype or marketing information.” wikipedia.com
+
+Testing icon SVG
+
+![Delete](delete.svg)
+![Done](done.svg)
+![](search.svg)
