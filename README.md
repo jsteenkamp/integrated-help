@@ -19,7 +19,7 @@ What is Minimum Viable Product (MVP)?  As it is traditionally defined MVP is:
 
 ## Testing icon SVG
 
-Investigate applying classes or options for formatting, resizing images. How can we easily apply a CSS class to the generated output?
+Investigate applying classes or options for formatting, resizing images. How can we easily apply a CSS class to the generated output? The answer is that separate stylesheets are available for each output format.
 
 ![Delete](delete.svg)
 ![Done](done.svg)
