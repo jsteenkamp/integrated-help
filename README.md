@@ -19,15 +19,17 @@ What is Minimum Viable Product (MVP)?  As it is traditionally defined MVP is:
 
 ## Testing icon SVG
 
+Investigate applying classes or options for formatting, resizing images. How can we apply a CSS class easily to the generated output?
+
 ![Delete](delete.svg)
 ![Done](done.svg)
-![](search.svg)
+![Search](search.svg)
 
 ## Test Table
 
 | One | Two | Three | Four | Five |
 | -- | -- | -- | -- | -- |
-| Test how content is wrapped by default | When we have long strings in columns | It wraps based on equal percentages | Which looks good provided the viewport (for displays) is not too arrow | We can also add images like this **settings** icon ![](settings.svg) |
+| Test how content is wrapped by default | When we have long strings in columns | It wraps based on equal percentages | Which looks good provided the viewport (for displays) is not too arrow | We can also add images like this **settings** icon ![Settings](settings.svg) |
 | 0:3 | 1:3 | 2:3 | 3:3 | 4:3 |
 | 0:4 | 1:4 | 2:4 | 3:4 | 4:4 |
 | 0:5 | 1:5 | 2:5 | 3:5 | 4:5 |
