@@ -39,3 +39,11 @@ The Gitbook output processing looks like this:
 | 0:3 | 1:3 | 2:3 | 3:3 | 4:3 |
 | 0:4 | 1:4 | 2:4 | 3:4 | 4:4 |
 | 0:5 | 1:5 | 2:5 | 3:5 | 4:5 |
+
+#### Test with a wide image
+
+Test how large images are handled. Ideally we want to use `srcset` with viewport appropriately sized images. How will Gitbook handle this with printed and ebook output formats?
+
+![JPEG](medium-image-width-sample.jpeg)
+
+
