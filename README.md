@@ -19,11 +19,17 @@ What is Minimum Viable Product (MVP)?  As it is traditionally defined MVP is:
 
 ## Testing icon SVG
 
-Investigate applying classes or options for formatting, resizing images. How can we apply a CSS class easily to the generated output?
+Investigate applying classes or options for formatting, resizing images. How can we easily apply a CSS class to the generated output?
 
 ![Delete](delete.svg)
 ![Done](done.svg)
 ![Search](search.svg)
+
+### Gitbook Processing
+
+The Gitbook output processing looks like this:
+
+![Gitbook Processing](gitbook-processing.png)
 
 ## Test Table
 
